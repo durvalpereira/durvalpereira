@@ -1,4 +1,4 @@
-<img align="right" src="https://hostu.info/uploads/durvalpereira-vertical-resized.png" alt="" width=250px/>
+<img align="right" src="https://hostu.info/uploads/durvalpereira-vertical-resized.png" alt="" width=180px/>
 
 ### Hi, I'm Durval 👋
 
