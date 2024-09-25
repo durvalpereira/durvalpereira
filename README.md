@@ -34,7 +34,7 @@ I also advise public and private institutions targeting processes improvements t
 
 #### Frameworks & Libraries that are in my day-do-day work (higher experience from left to right)
 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-laravel.webp" alt="laravel" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
